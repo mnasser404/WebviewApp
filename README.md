@@ -5,6 +5,6 @@ This App was POC for :-
 - Parsing HTML.
 
 What I'm using :- 
-Kotlin 
-Android webview
-Jsoup 'Java HTML Parser' 
+- Kotlin 
+- Android webview
+- Jsoup 'Java HTML Parser' 
